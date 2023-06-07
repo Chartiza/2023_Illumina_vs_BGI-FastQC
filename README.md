@@ -18,7 +18,7 @@ To run the script and reproduce the results, you need to have the following soft
 <img width="728" alt="Screenshot 2023-06-07 at 12 17 45" src="https://github.com/Chartiza/2023_Illumina_vs_BGI-FastQC/assets/15068419/f7be2eca-f03c-43b0-8eca-0d5bc5945329">
 
 ### Project
-This code belongs to collaboration project between Kateryna Pantiukh and Tomasz Kościółek & Kinga Zielińska. 
+This code belongs to collaboration project between Kateryna Pantiukh & Elin Org and Tomasz Kościółek & Kinga Zielińska & Łukasz Szydłowski. 
 
 ### Results
 1. Total number of sequencing was much higher at BGI cohort.
